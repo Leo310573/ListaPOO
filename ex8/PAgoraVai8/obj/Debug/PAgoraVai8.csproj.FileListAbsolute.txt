@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\bin\Debug\PAgoraVai8.exe.config
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\bin\Debug\PAgoraVai8.exe
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\bin\Debug\PAgoraVai8.pdb
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\obj\Debug\PAgoraVai8.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\obj\Debug\PAgoraVai8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\obj\Debug\PAgoraVai8.Form1.resources
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\obj\Debug\PAgoraVai8.Properties.Resources.resources
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\obj\Debug\PAgoraVai8.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\obj\Debug\PAgoraVai8.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\obj\Debug\PAgoraVai8.exe
+C:\Users\Lucas\Desktop\POO\SAgoraVai8\PAgoraVai8\obj\Debug\PAgoraVai8.pdb
